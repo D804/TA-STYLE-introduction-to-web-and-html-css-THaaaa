@@ -1,0 +1,16 @@
+h1 {
+      color: red;
+      font-size: 34px;
+}
+ .no{
+      color: blue;
+      font-size: 28px;
+ }
+
+ #none {
+     color: yellow;
+     font-size: 32px;
+ }
+ body{
+     background-color: turquoise;
+ }
