@@ -1,0 +1,39 @@
+body{
+    background-color: #22396A;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+h2{
+    color: #31bb66;
+}
+
+a {
+    color: red;
+    
+}
+
+img {
+    
+    width: 200px;
+    height: 200px;
+}
+h1{
+    text-align: center;
+}
+.par{
+
+     text-align: center;
+}
+footer{
+    background-color: #11244D;
+    word-spacing: 60px;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+    
+
+
+    
